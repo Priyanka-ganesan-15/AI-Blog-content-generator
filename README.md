@@ -1,4 +1,4 @@
-#Bloggy 
+# Bloggy 
 ## Overview
 
 This Streamlit app, named "Bloggy: Your Writing Companion", helps users generate blog posts by providing a title, keywords, and a desired word count. The app uses Google's generative AI model (Gemini) to generate the blog content.
